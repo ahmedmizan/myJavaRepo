@@ -20,6 +20,7 @@ public class ArrayListLesson {
 //        System.out.println(names);
 //        names.add("Tahir");
 //        System.out.println(names);
+      System.out.println();
 
       ArrayList<String > cities = new ArrayList<>();
       cities.add("NY");
