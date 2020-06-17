@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d594ce8-038d-4ff4-98f8-c36a41e426ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="starting-programming" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yfr4XssgfhyV2NmqIZFuWDJHYo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.DateTutorial">
+    <configuration name="Chapter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homepractice.java.Chapter1" />
+      <module name="starting-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homepractice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homepractice.java.DateTutorial" />
+      <module name="starting-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homepractice.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.practice.EnumClass" />
+      <module name="starting-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.practice.FileReaderLesson" />
+      <module name="starting-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWritingLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.practice.FileWritingLesson" />
+      <module name="starting-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateTutorial" />
+        <item itemvalue="Application.Chapter1" />
+        <item itemvalue="Application.EnumClass" />
+        <item itemvalue="Application.FileReaderLesson" />
+        <item itemvalue="Application.FileWritingLesson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d594ce8-038d-4ff4-98f8-c36a41e426ad" name="Default Changelist" comment="" />
+      <created>1583344298880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583344298880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="83" key="#ExceptionLearning" timestamp="1591314153836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="83" key="#ExceptionLearning/0.0.1536.824@0.0.1536.824" timestamp="1591314153836" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1583346445213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583346445213" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1591401319724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591401319724" />
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591203557683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591203557683" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592164329317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592164329317" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592164329317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592164329317" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592164329317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592164329317" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592164329317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592164329317" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1588652026414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588652026414" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591971293702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591971293702" />
+    <state x="22" y="27" width="1223" height="572" key="dock-window-1" timestamp="1588373274879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="22" y="27" width="1223" height="572" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1588373274879" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584050704296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584050704296" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1592182554140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592182554140" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/starting_programming$ArrayListLesson.ic" NAME="ArrayListLesson Coverage Results" MODIFIED="1591333294386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>collection.practice.*</FILTER>
+    </SUITE>
+  </component>
+</project>
